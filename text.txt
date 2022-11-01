@@ -1,0 +1,24 @@
+    content: "\f111";
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+  Brass monkey ----------------- 1.5  hours
+  Versatile Hydroponics  ------- 18 hours
+  Poe ---------------------------  3 hours
+  Bo's Flooring ---------------- 2 hours
+  Charm Restaurant ------------ 2 hours
+
+  Total ----------------------26.5 hours
+
+  3 
+  7
+  5
+  2
+  10
+
+  EPOXY SEALpoxy Sealed Concrete
+  
